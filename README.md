@@ -95,7 +95,7 @@ Player X's Turn
 
 ## 👩‍💻 Author
 
-**Tejeswini Kanaka Laxmi Thoram**
+**Prasanna Lakshmi Illa**
 
 ---
 
